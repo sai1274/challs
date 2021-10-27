@@ -1,4 +1,4 @@
-# Just Do It
+# Scan it
 
 ## Challenge Description
 It looks like QR code can u help me extract the information hidden in it?
