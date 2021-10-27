@@ -1,7 +1,10 @@
-# Challenge Name
+# Just Do It
 
-Ending
+## Challenge Description
+It looks like QR code can u help me extract the information hidden in it?
 
-### Challenge Description
+## Short Writeup
+Use  `zbarimg <filename>`
 
-This was sent by my friend to me but i'm unable to open can u help me ? He said both the beginning and ending have equal priority.
+## Flag
+flag{QR_code_scanned}
